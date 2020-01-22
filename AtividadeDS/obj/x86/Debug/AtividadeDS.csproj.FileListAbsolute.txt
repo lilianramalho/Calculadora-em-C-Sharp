@@ -1,0 +1,15 @@
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.TelaCalcular.resources
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.Properties.Resources.resources
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csproj.GenerateResource.Cache
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.exe
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.pdb
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.Menu.resources
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.exe
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.pdb
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csprojResolveAssemblyReference.cache
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.telaFormas.resources
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.Resultado.resources
+C:\Users\lili-\documents\visual studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.TelaTriangulo.resources
+C:\Users\lili-\Documents\Visual Studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.TelaRetangulo.resources
+C:\Users\lili-\Documents\Visual Studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.TelaCirculo.resources
+C:\Users\lili-\Documents\Visual Studio 2010\Projects\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.telaQuadrado.resources
